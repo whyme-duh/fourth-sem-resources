@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.json": "csharp",
+    "iostream": "cpp",
+    "xlocale": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
